@@ -15,8 +15,8 @@ const Navbar = () => {
 
       const sections = [
         "home",
-        "cars",
-        "team",
+        "Projects",
+        "Team",
         "competitions",
         "achievements",
         "contactus",
