@@ -6,7 +6,7 @@ const HeroText = () => {
       <h1 className="text-5xl md:text-6xl text-orange-700 font-bold drop-shadow-lg">
         BOLTHEADS
       </h1>
-      <p className="text-lg md:text-xl text-black font-semibold drop-shadow-md">
+      <p className="text-lg md:text-xl text-gray-300 font-semibold drop-shadow-md">
         Driven by Passion, United by Wheels
       </p>
     </div>
