@@ -3,10 +3,10 @@ import { motion } from "framer-motion";
 const HeroText = () => {
   return (
     <div className="flex flex-col gap-4">
-      <h1 className="text-5xl md:text-6xl text-orange-900 font-bold drop-shadow-lg">
+      <h1 className="text-5xl md:text-6xl text-orange-700 font-bold drop-shadow-lg">
         BOLTHEADS
       </h1>
-      <p className="text-lg md:text-xl text-orange-700 font-semibold drop-shadow-md">
+      <p className="text-lg md:text-xl text-black font-semibold drop-shadow-md">
         Driven by Passion, United by Wheels
       </p>
     </div>
